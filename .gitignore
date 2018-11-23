@@ -1,2 +1,5 @@
 .idea
 *.iml
+.gitignore
+secret.md
+src/main/resources/application.properties
